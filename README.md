@@ -1,32 +1,100 @@
 ### Hi there 👋
 
-<!--
-**kenny268/kenny268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+👋 I'm a **Software Developer** passionate about building innovative solutions that solve real-world problems. I specialize in both frontend and backend development, leveraging a wide range of modern technologies and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-👋I'm a software developer with a passion for building innovative solutions. I specialize in web development using HTML, CSS, JavaScript, and Python.
+## 🛠️ Key Skills
 
-👨‍💻 I have experience working with a variety of frameworks including Django, Django Rest Framework, Express.js, Node.js, Gatsby, Graphql with Node.js, React.js, and React Native.
+### 🎨 Frontend Development
+- 🌐 **Languages:** HTML, CSS, JavaScript
+- 🚀 **Frameworks & Libraries:** React.js, Next.js, React Native (for mobile)
 
+### 🔙 Backend Development
+- 🖥️ **General-purpose Languages:** Python, JavaScript (Node.js), C#, Java
+- ⚡ **High-performance:** C++
+- 🔧 **Frameworks:** Node.js, Express.js, Django, Django Rest Framework
 
-🔭 I'm currently expanding my skills by learning new technologies and tools. I'm currently focused on learning DevOps, which I believe will help me improve my development workflow and make it easier to deploy my applications
+### 🗄️ Database Management
+- 🏛️ **Relational:** MySQL, PostgreSQL
+- 📦 **NoSQL:** MongoDB
 
+### 🚀 DevOps & CI/CD
+- 🏗️ **Version Control:** Git
+- 📦 **Containerization:** Docker
+- ☸️ **Orchestration:** Kubernetes
+- 🏗️ **Infrastructure as Code:** Terraform, Ansible
+- 🔄 **CI/CD:** ArgoCD, GitHub Actions
 
-🚀 I love to collaborate with other developers and designers to build amazing products that solve real-world problems. I enjoy being a part of a team that is dedicated to creating user-centric solutions that make a difference in people's lives.
+### 🔌 API Development
+- 🌍 **RESTful APIs**
+- 🚀 **GraphQL**
 
+### 🌐 Networking
+- 🔄 **Tools:** Axios, Fetch API
 
+### ✅ Testing
+- 🧪 **Unit Testing:** Jest, Mocha
+- 🔍 **Testing Frameworks:** RTL, TDD
 
-🌱 When I'm not coding, you can find me exploring the great outdoors or reading a good book. I'm a firm believer in continuous learning and personal development, and I'm always looking for new challenges and opportunities to grow my skills.
+### 📊 Project Management
+- 📌 **Methodologies:** Scrum, Jira
 
-📫 Let's connect and build something great to
+### ☁️ Cloud
+- 🔹 **Platforms:** Azure, AKS, Resource Groups
+
+---
+
+## 💼 Experience
+
+### 🔹 Krystal Scanning and Mobility Group – Nairobi, Kenya
+**🖥️ Software Engineer** *(January 2024 – Present)*
+- 📊 Gathered and analyzed client requirements to develop tailored solutions for warehouse automation.
+- 📦 Designed and implemented software systems for tracking and managing flower packaging processes, enhancing traceability.
+- 📡 Developed Bluetooth-enabled digital weighing solutions to automate ingredient data collection and reporting.
+- 🔍 Integrated **Zebra VS40 and FX40 barcode scanners** with RFID tools to improve operational efficiency.
+- 🔄 Established **CI/CD pipelines** for streamlined deployments, adhering to DevOps best practices.
+- 🤝 Collaborated with cross-functional teams, managing tasks via **Jira** and following **SDLC methodologies**.
+- 🛠️ Provided **technical support, disaster recovery planning, and system maintenance**.
+
+### 🔹 Remotever – Nairobi, Kenya
+**🎨 Front-End Developer** *(January 2023 – September 2023)*
+- 💻 Built **responsive layouts** and user interfaces using **HTML5, CSS3, and JavaScript**.
+- 🚀 Designed and deployed websites, portals, and **scalable web applications** for clients.
+- 🎯 Enhanced **website navigation and visual appeal**, improving user experience.
+- ✅ Reviewed and ensured accuracy and functionality of web elements regularly.
+
+### 🔹 Kericho County Government ICT Department – Kericho, Kenya
+**💡 Internship** *(September 2022 – December 2022)*
+- 🌐 Gained hands-on experience in **network infrastructure and troubleshooting**, focusing on **WiFi and router configurations**.
+- 🔍 Diagnosed and resolved **network connectivity issues** to optimize performance.
+- 🏛️ Assisted in **government ICT projects** and developed an understanding of **government processes**.
+
+### 🔹 Truelancer – Remote
+**🖥️ Freelance Developer** *(September 2021 – July 2022)*
+- 🏗️ Delivered high-quality **web and software development projects** for clients across industries.
+- 🤝 Collaborated with clients to **gather requirements, propose solutions, and implement features**.
+- 🎯 Built personal development projects to enhance skills in **JavaScript, React.js, and backend frameworks**.
+
+---
+
+## 🌟 Project Highlights
+
+### 🏭 IoT Solutions for Warehouse Automation
+- 🤖 Integrated **Zebra VS40/FX40 barcode scanners** and **RFID tools** to resolve cross-packing issues and improve traceability.
+
+### ⚖️ Digital Weighing System
+- 📊 Designed a **Bluetooth-enabled solution** for real-time ingredient tracking, reducing paperwork and automating reporting.
+
+### 🌺 Flower Traceability System
+- 🚀 Built **software to track flower packaging processes**, minimizing losses and improving operational transparency.
+
+### 🌍 Freelance Projects
+- 🛠️ Delivered **customized solutions** for clients on Truelancer, including **dynamic websites, portals, and web applications**.
+
+---
+
+📫 **Let's connect and build something great together!** 🚀
+
